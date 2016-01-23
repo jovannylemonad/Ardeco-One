@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10100" format="1">
+  <advance width="300"/>
+  <unicode hex="0453"/>
+  <outline>
+    <contour>
+      <point x="135" y="600" type="line" name="hr00"/>
+      <point x="280" y="640" type="line"/>
+      <point x="260" y="690" type="line"/>
+      <point x="125" y="620" type="line"/>
+    </contour>
+    <component base="afii10068"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="621" width="-21" />
+      <hstem pos="690" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
